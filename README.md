@@ -184,7 +184,6 @@ Volume=<input type="text" [value]="volume"> Meters<sup>3</sup>
 
 ![git](angular_calculation.png)
 
-### Home Page:
-
 
 ## Result:
+A math calculation website has been designed using angular framework.
