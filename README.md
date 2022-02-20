@@ -13,7 +13,7 @@ Requirement collection.
 
 ### Step 2:
 
-Creating the layout using HTML and CSS in component.html file
+Creating the layout using HTML and CSS in component.html file.
 
 ### Step 3:
 
