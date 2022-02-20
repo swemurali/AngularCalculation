@@ -45,9 +45,6 @@ Publish the website in the given URL.
 <br>
 </div>
 </div>
-<div class="footer">
-    DEVELOPED BY : S.ABHISHEK
-</div>
 </body>
 ~~~
 
@@ -81,20 +78,7 @@ Publish the website in the given URL.
     text-align: center;
     color:black;
   }
-  
-  .footer {
-    display: inline-block;
-    width: 100%;
-    height: 50px;
-    background-color:cyan;
-    align-items: center;
-    text-align:center;
-    font-size: 20px;
-    padding-top: 15px;
-    margin: 0px 0px 0px 0px;
-    color: #000000;
-    font-weight: bold;
-  }
+
 ~~~
 
 ### cone.component.html
@@ -182,7 +166,7 @@ Volume=<input type="text" [value]="volume"> Meters<sup>3</sup>
 
 ## OUTPUT:
 
-![git](angular_calculation.png)
+![git](angular_calculation(1).png)
 
 
 ## Result:
